@@ -39,4 +39,4 @@ df.write.saveAsTable("formula1.constructors")
 
 # COMMAND ----------
 
-
+display(df)

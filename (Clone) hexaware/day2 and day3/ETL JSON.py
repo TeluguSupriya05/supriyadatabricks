@@ -37,6 +37,4 @@ df_final.write.saveAsTable("formula1.constructors")
 
 df.write.saveAsTable("formula1.constructors")
 
-# COMMAND ----------
 
-display(df)
